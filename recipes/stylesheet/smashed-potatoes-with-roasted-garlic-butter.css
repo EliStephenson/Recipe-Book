@@ -1,0 +1,17 @@
+p {
+    color: rgb(77, 202, 129);
+    background-color: rgb(255, 255, 255);
+}
+
+.potatopic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+.intro {
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+}
